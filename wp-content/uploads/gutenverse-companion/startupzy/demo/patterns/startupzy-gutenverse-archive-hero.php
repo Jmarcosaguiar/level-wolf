@@ -1,0 +1,18 @@
+<?php
+/**
+ * Pattern content.
+ */
+return array(
+	'title'      => __( 'Gutenverse Archive Hero', 'startupzy' ),
+	'categories' => array( 'startupzy-gutenverse' ),
+	'content'    => '<!-- wp:gutenverse/section {"elementId":"guten-XZ9bOe","background":{"type":"default","image":{"Desktop":{"id":6,"image":"{{{image:0:url}}}"}},"position":{"Desktop":"center center"},"repeat":{"Desktop":"no-repeat"},"size":{"Desktop":"cover"},"videoPlayOnMobile":false},"backgroundOverlay":{"type":"default","color":{"type":"variable","id":"gv-color-background-primary"}},"opacity":"0.9","margin":{"Desktop":[],"Tablet":[],"Mobile":[]},"padding":{"Desktop":{"unit":"px","dimension":{"top":"240","bottom":"180"}},"Tablet":{"unit":"px","dimension":{"top":"160","bottom":"100"}},"Mobile":{"unit":"px","dimension":{"top":"120","bottom":"60"}}}} -->
+<div class="section-wrapper" data-id="XZ9bOe"><section class="wp-block-gutenverse-section guten-element guten-section guten-XZ9bOe layout-boxed align-stretch"><div class="guten-background-overlay"></div><div class="guten-container guten-column-gap-default"><!-- wp:gutenverse/column {"width":{"Desktop":100,"Tablet":null},"elementId":"guten-2xGrGJ","horizontalAlign":{"Desktop":"center","Tablet":"center","Mobile":"center"}} -->
+<div class="wp-block-gutenverse-column guten-element guten-column guten-2xGrGJ"><div class="guten-column-wrapper" data-id="2xGrGJ"><!-- wp:gutenverse/archive-title {"elementId":"guten-UYoz2s","alignment":{"Desktop":"center"},"typography":{"type":"variable","id":"gv-font-primary-small","font":{"label":"Helvetica","value":"Helvetica","type":"google"},"size":{"Desktop":{"unit":"px","point":"40"},"Mobile":{"unit":"px","point":"30"}},"lineHeight":{"Desktop":{"unit":"em","point":"1.2"}},"weight":"600"},"color":{"type":"variable","id":"gv-color-white"},"margin":{"Desktop":{"unit":"px","dimension":{"bottom":"","top":""}}},"padding":{"Desktop":[]}} -->
+<div class="guten-element guten-archive-title guten-UYoz2s"></div>
+<!-- /wp:gutenverse/archive-title --></div></div>
+<!-- /wp:gutenverse/column --></div></section></div>
+<!-- /wp:gutenverse/section -->',
+	'images'      => '["https:\/\/gutenverse.com\/startupzy\/wp-content\/uploads\/sites\/4\/2025\/09\/action-african-american-american-asian-black-brainstorming-1442007-pxhere.com_.webp"]',
+	'pattern_slug' => 'startupzy-companion/startupzy-gutenverse-archive-hero',
+	'is_sync' => false,
+);
